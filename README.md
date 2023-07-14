@@ -1,5 +1,5 @@
 <p>
-    👋 Hi, I’m @h3t1<br>
+    👋 Hi, I’m Hamza<br>
     - I'm Fullstack Engineer | Java Spring | Vue | Angular<br>
     - Open to collaborating on interesting and innovative projects.<br><br>
    📫 How to reach me : <br>
